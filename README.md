@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Python Homework - Py Me Up, Charlie
 
 ## Background
@@ -113,3 +114,11 @@ Both of these challenges encompass a real-world situation where your newfound Py
 ## Copyright
 
 Trilogy Education Services © 2019. All Rights Reserved.
+=======
+# python-challenge
+PyBank Python Homework
+I calculated the number of months in the dataset using a for loop.
+Next, I calculated the change in profit or loss for each month compared to the previous month.
+Then, I calculated the greatest increase and greatest decrease in profit from the previous month using an if statement.
+
+>>>>>>> 9da2ce5b54ca772919c4a1ba4f3356c0d7744828

@@ -1,5 +1,4 @@
-# python-challenge
-PyBank Python Homework
+# Analyzing Bank Records With Python
 
 This assignment consisted of two challenges: PyBank and PyPoll. 
 

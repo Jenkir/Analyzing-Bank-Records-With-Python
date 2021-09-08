@@ -1,5 +1,8 @@
 # Analyzing Bank Records With Python
 
+![dollar-2891817_1280](https://user-images.githubusercontent.com/75215001/132555538-8f552234-f819-4630-9b3d-fd7791661e14.jpg)
+
+
 This assignment consisted of two challenges: PyBank and PyPoll. 
 
 For **PyBank**, we created a Python script to analyze financial records of a fictional company using a provided csv file. The csv file (budget_data.csv) is composed of two columns, 
@@ -34,3 +37,5 @@ We calculated the following from this file:
 
 
 The final script printed an analysis to the terminal and exported a text file with the results.
+
+image credit: QuinceCreative - Pixabay.com
